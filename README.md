@@ -1,4 +1,4 @@
-# Wave Portal Backend
+# Vibes✨ Portal Backend
 
 Send me a hello through the blockchain!
 
